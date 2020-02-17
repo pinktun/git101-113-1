@@ -1,2 +1,2 @@
-create file new-1.txt
+แก้ไข file new-1.txt บรรทัดเดียวกัน แต่ให้ต่างกัน
 and save
